@@ -1,0 +1,23 @@
+{
+  "name": "MediaPlayer",
+  "version": "1.0.0",
+  "description": "Media player del curso profesional de JS en platzi",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jusart92/MediaPlayer.git"
+  },
+  "keywords": [],
+  "author": "Arturo Juarez <jusart.92@gamil.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jusart92/MediaPlayer/issues"
+  },
+  "homepage": "https://github.com/Jusart92/MediaPlayer#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
